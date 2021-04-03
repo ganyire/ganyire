@@ -1,4 +1,4 @@
-![alt text](https://1drv.ms/u/s!Avbd8GLWp7ZziFUaXq6jWjQZNF0V)
+![banner](Marketing Thinking and Development (1).png)
 
 - 👋 Hi, I’m @ganyire
 - 👀 I’m interested in ...
