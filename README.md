@@ -1,4 +1,4 @@
-![banner](Marketing Thinking and Development (1).png)
+![banner](banner.png)
 
 - 👋 Hi, I’m @ganyire
 - 👀 I’m interested in ...
