@@ -7,7 +7,7 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" />](mailto:ganyirel@gmail.com) 
 
 - 👋 Hi, I’m Leonard Ganyire
-- 👀 I’m interested in software development and developing open-source wordpress plugins
+- 👀 I’m a software engineer who is well-versed in Laravel, React, Next.js, API development, and more...
 - 📫 My email is ganyirel@gmail.com and my contact number is +263783575151
 
 <!---
